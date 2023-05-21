@@ -3,6 +3,13 @@ from faker import Faker
 
 fake = Faker()
 
+#DISCLAIMER
+#This script is for educational purposes only. Do not use it for illegal activities. I am not responsible for any damage done by this script.
+#This script should only be used on Systems you own or have permission to use it on.
+#This script is not intended to harm anyone and you are responsible for your own actions.
+
+
+
 
 def sendSpam():
     # Analyse String
