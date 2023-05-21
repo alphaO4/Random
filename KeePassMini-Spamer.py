@@ -51,4 +51,3 @@ def sendSpam():
 
 for i in range(int(input("How many spam messages do you want to send?: "))):
     sendSpam()
-    i += 1
