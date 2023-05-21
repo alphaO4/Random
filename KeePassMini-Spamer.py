@@ -8,7 +8,8 @@ fake = Faker()
 #This script should only be used on Systems you own or have permission to use it on.
 #This script is not intended to harm anyone and you are responsible for your own actions.
 
-
+print("KeePassMini-Spamer.py")
+print("DISCLAIMER This script is for educational purposes only. Do not use it for illegal activities. I am not responsible for any damage done by this script. \n This script should only be used on Systems you own or have permission to use it on.\nThis script is not intended to harm anyone and you are responsible for your own actions.")
 
 
 def sendSpam():
